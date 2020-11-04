@@ -1,0 +1,4 @@
+4) The size of the sphere's sizes changed and it is less sharp
+
+5) The gamma value made the background white if higher and darker if lowwer
+ 
