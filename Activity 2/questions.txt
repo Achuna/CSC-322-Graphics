@@ -1,1 +1,18 @@
 1) pxy = 
+[1, 0, 0][cos(pi/4) 0 sin(pi/4)]
+[0 cos(pi/4) -sin(pi/4)][0 1 0]
+[0 sin(pi/4) cos(pi/4)][-sin(pi/4) 0 cos(pi/4)]
+multiply =
+
+(1/sqrt(2) 0 1/sqrt(2))
+(1/2 1/sqrt(2) -1/2)
+(-1/2 1/sqrt(2) 1/2)
+
+2) pyx =
+[cos(pi/4) 0 sin(pi/4)][1, 0, 0]
+[0 1 0][0 cos(pi/4) -sin(pi/4)]
+[-sin(pi/4) 0 cos(pi/4)][0 sin(pi/4) cos(pi/4)]
+multiply =
+(1/sqrt(2) 1/2 1/2)
+(0 1/sqrt(2) (1/sqrt(2))
+(-1/sqrt(2) 1/2 1/2)
