@@ -1,0 +1,17 @@
+Checkpoint 4) The size of the sphere's sizes changed and it is less sharp
+
+check point 6) The gamma value made the background white if higher and darker if lowwer
+
+1. based on the shinniest of the object light reflects more. Dull does not reflect light as well, and solids do not reflect the lights
+
+2. based on how the light reflects 
+
+3. more colors to work with
+
+4. for this there are floating point values used for the colors as compared to paint
+
+5. To isolate an object from it's background
+
+6. to correctly map the tones of each colors to the users eye
+
+7. wavelenght of light define the intensities of light on the eye
