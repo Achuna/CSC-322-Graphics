@@ -4,15 +4,22 @@
 [0 sin(pi/4) cos(pi/4)][-sin(pi/4) 0 cos(pi/4)]
 multiply =
 
-(1/sqrt(2) 0 1/sqrt(2))
-(1/2 1/sqrt(2) -1/2)
-(-1/2 1/sqrt(2) 1/2)
-
 2) pyx =
 [cos(pi/4) 0 sin(pi/4)][1, 0, 0]
 [0 1 0][0 cos(pi/4) -sin(pi/4)]
 [-sin(pi/4) 0 cos(pi/4)][0 sin(pi/4) cos(pi/4)]
-multiply =
-(1/sqrt(2) 1/2 1/2)
-(0 1/sqrt(2) (1/sqrt(2))
-(-1/sqrt(2) 1/2 1/2)
+
+3) apply (1, 1, 2) as the location of the plane causes the cube to also translate the same units using it's placement of the plane as the base
+
+t1 = (2, -1, 1)
+
+4) t2 = (2, -1, 1) given in blender
+
+5) images rendered and saved to 3 monkey images
+
+6) All the images seem to be the same distance away from the monkey
+despite appearing to be the same distance the camera was moved backwards in 
+each shot but the focal length was increased which made the images appear equal distant
+
+7) flat lighting images saved
+
