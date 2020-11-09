@@ -1,0 +1,6 @@
+1.3) with the flat shade you can visibly see the flat surfaces making up the uv sphere
+whereas for the smooth shading those surfaces are no longer visible
+
+1.6) we can see that the image quality has definetly improved. the flat shade with subdivision the flat surfaces are less visible but we can still see the jaggered shadows
+subdivision with smooth shade causes the shadows to be much more smooth and less jaggered.
+
