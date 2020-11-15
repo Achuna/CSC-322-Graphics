@@ -4,3 +4,14 @@ whereas for the smooth shading those surfaces are no longer visible
 1.6) we can see that the image quality has definetly improved. the flat shade with subdivision the flat surfaces are less visible but we can still see the jaggered shadows
 subdivision with smooth shade causes the shadows to be much more smooth and less jaggered.
 
+2.2) The image in 1.5 is much more brighter as compared to 2.1 because we are dimming the light sorce.
+Light source and power has an effect on the shadows and the radiance of the object.
+
+2.4) In 1.5, the image seems partially lit while in 2.3 the background is completly dark, highlighting the sphere
+
+2.6) Similar to 2.3, the image is still has a black background but the lighting in 2.5 is more wider due to the disk light source.
+The light covers a greater surface area compared to 1.5.
+
+4) Specular makes the surface of the sphere more shiny. Metalic as the name suggests makes the surface more metal-like and anisotropic makes the surface extremely reflective of the enviroment
+
+
