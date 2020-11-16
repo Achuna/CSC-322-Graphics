@@ -1,0 +1,18 @@
+1) combined: all lighting is accounted and a fully colored scene with reflections are shown
+diffuse direct: creates a black and white render
+indirect: removes color from only balls
+color: reflections are removed but surface colors remain
+Glossy:
+direct: only showing white lighting reflected of balls
+indirect: only shows the balls reflections (no background)
+color: shows grayscale of just the 2 balls
+Transmission
+direct: shows nothing
+indirect: shows first reflective ball
+color: shows grayscale of the first ball.
+
+2) The cube is definetly translating across the x axis. Adding motion blur adds to the effect of mimicing acutal movement.
+
+3) The glass sphere is in focus while everything else is blurred. this create depth (focusing just on the glass sphere)
+
+4) Adding the outer cube gives the sense that the scene is within a room. the lighting has changed to a more room-like setting where the ceiling is emitting a light 
