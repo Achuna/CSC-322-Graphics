@@ -1,0 +1,3 @@
+2.3) Checkpoint 2.1 adds a flat base texture to the sphere without any sense of surface roughness
+	in 2.2, a normal mapping is added which gives the sphere a more rough-like texture
+	in 2.3, difformation is added giving the sphere a realistic rock exture with deformed verticies
